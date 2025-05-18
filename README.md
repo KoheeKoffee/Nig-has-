@@ -1,2 +1,2 @@
-# Nig-has-
+# Two-Player -
 REPO FOR PYGAME
